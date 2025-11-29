@@ -1,6 +1,6 @@
 <h1 align="center">Aryan Pant </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1000&pause=300&color=00F7FF&center=true&vCenter=true&width=550&lines=Developer+%F0%9F%94%A5;Hacker+%F0%9F%95%B0;Cybersecurity+%26;XR+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1000&pause=300&color=00F7FF&center=true&vCenter=true&width=550&lines=Developer+%F0%9F%94%A5;Hacker+%F0%9F%95%B0;Cybersecurity;XR+%F0%9F%8E%AE" alt="Typing SVG" />
 </p>
 
 ---
